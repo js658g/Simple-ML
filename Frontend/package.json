@@ -16,7 +16,7 @@
     "@mui/material": "^5.4.3",
     "@nivo/bar": "^0.79.0",
     "@nivo/core": "^0.79.0",
-    "@nivo/heatmap": "^0.79.0",
+    "@nivo/heatmap": "^0.88.0",
     "@nivo/marimekko": "^0.79.1",
     "coa": "2.0.2",
     "connect": "^3.7.0",
