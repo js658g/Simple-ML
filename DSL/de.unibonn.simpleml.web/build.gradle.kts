@@ -19,7 +19,7 @@ java {
 
 dependencies {
     implementation(project(":de.unibonn.simpleml"))
-    implementation("org.emfjson:emfjson-jackson:1.2.0")
+    implementation("org.emfjson:emfjson-jackson:1.3.0")
 
     api(project(":de.unibonn.simpleml.ide"))
     api("org.eclipse.xtext:org.eclipse.xtext.xbase.web:$xtextVersion")
