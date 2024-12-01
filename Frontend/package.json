@@ -76,7 +76,7 @@
     "@storybook/addon-links": "^6.0.26",
     "@storybook/node-logger": "^6.0.26",
     "@storybook/preset-create-react-app": "^3.2.0",
-    "@storybook/react": "^6.0.26",
+    "@storybook/react": "^8.4.6",
     "babel-loader": "8.1.0",
     "chromatic": "^5.4.0",
     "less-watch-compiler": "^1.14.6",
